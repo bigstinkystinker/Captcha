@@ -20,7 +20,8 @@ NOTE: Your camera may take 5-10 seconds to start so take your time scrolling thr
 ###
 # Compile instructions:
 #   1. run: pip install pyinstaller PySide6 opencv-python
-#   2. cd into file and run: pyinstaller --onefile --windowed --add-data "haar;haar" --add-data "memes;memes" main.py
+#   2. cd into Captcha file and run: pyinstaller --onefile --windowed --add-data "haar;haar" --add-data "memes;memes" main.py
+#      (make sure python scripts added to PATH it gave me lotta trouble ):<)
 #   3. manually add memes and haar files into dist file
 #   4. Done!
 #   (sry I couldn't add the exe into the github repo it's huge D: hope this is ok)
