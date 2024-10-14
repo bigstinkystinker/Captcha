@@ -11,9 +11,8 @@ viewer various memes that are meant to make them smile, and if a smile is detect
 
 Along with keeping out robots, this CAPTCHA idea has the added benefit of keeping out psychopaths, 
 depressed people and people who don't share your taste in memes. The depressed people can then be
-redirected to therapy instead of whatever is behind the CAPTCHA because mental health is more important.
-the others can have a trap door open underneath them Bugs Bunny style or something idk I haven't gotten 
-that far. Enjoy!
+redirected to therapy instead of whatever is behind the CAPTCHA and the others can have a trap door 
+open underneath them Bugs Bunny style or something idk I haven't gotten that far. Enjoy!
 
 NOTE: Your camera may take 5-10 seconds to start so take your time scrolling through the memes
 """
